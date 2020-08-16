@@ -1,0 +1,265 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #333;
+  position: relative;
+  width: 360px;
+  height: 640px;
+
+}
+.titlee{
+position: absolute;
+width: 360px;
+height: 52px;
+left: 0px;
+top: 0px;
+
+background: #075E54;
+mix-blend-mode: normal;
+}
+.line1{
+  position: absolute;
+width: 7.81px;
+height: 0px;
+left: 302px;
+top: 27px;
+
+border: 1.5px solid #FFFFFF;
+transform: rotate(50.19deg);
+}
+.eclips1{
+  position: absolute;
+width: 3px;
+height: 3px;
+left: 346px;
+top: 25px;
+background: #FFFFFF;
+}
+.eclips2{
+  position: absolute;
+width: 3px;
+height: 3px;
+left: 346px;
+top: 32px;
+
+background: #FFFFFF;
+}
+.eclips3{
+position: absolute;
+width: 3px;
+height: 3px;
+left: 346px;
+top: 18px;
+
+background: #FFFFFF;
+}
+.eclips
+{
+  position: absolute;
+width: 15px;
+height: 11px;
+left: 300px;
+top: 15px;
+background: #075E54;
+}
+.whatsapp{
+  position: absolute;
+width: 161px;
+height: 40px;
+left: 13px;
+top: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.options{
+  position: absolute;
+width: 360px;
+height: 62px;
+left: 0px;
+top: 52px;
+
+background: #075E54;
+box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+}
+.calls{
+  position: absolute;
+width: 46px;
+height: 28px;
+left: 285px;
+top: 31px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.status{
+  position: absolute;
+width: 80px;
+height: 26px;
+left: 182px;
+top: 31px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.chats{
+  position: absolute;
+  width: 63px;
+  height: 16px;
+  left: 77px;
+  top: 31px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: capitalize;
+
+  color: #FFFFFF;
+
+}
+.line2{
+  position: absolute;
+width: 85px;
+height: 0px;
+left: 59px;
+top: 55px;
+
+border: 3px solid #FFFFFF;
+}
+.camera
+{
+position: absolute;
+left: 15px;
+top: 25px;
+mix-blend-mode: multiply;
+wi
+}
+
+.Main{
+  position: absolute;
+width: 360px;
+height: 525px;
+left: 0px;
+top: 115px;
+
+background: #FF0000;
+}
+.s1{
+  position: absolute;
+width: 360px;
+height: 71px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+.s2{
+  position: absolute;
+  width: 360px;
+  height: 71px;
+  left: 0px;
+  top: 71px;
+
+  background: #FFFFFF;
+}
+.s3{
+  position: absolute;
+width: 360px;
+height: 71px;
+left: 0px;
+top: 142px;
+
+background: #FFFFFF;
+}
+.s4{
+  position: absolute;
+width: 360px;
+height: 71px;
+left: 0px;
+top: 213px;
+
+background: #FFFFFF;
+}
+.s5{
+  position: absolute;
+  width: 360px;
+  height: 71px;
+  left: 0px;
+  top: 284px;
+
+  background: #FFFFFF;
+}
+.s6{
+  position: absolute;
+  width: 360px;
+  height: 71px;
+  left: 0px;
+  top: 351px;
+
+  background: #FFFFFF;
+}
+.s7{
+
+  position: absolute;
+  width: 360px;
+  height: 71px;
+  left: 0px;
+  top: 422px;
+
+  background: #FFFFFF;
+}
+.s8
+{
+  position: absolute;
+  width: 360px;
+  height: 71px;
+  left: 0px;
+  top: 489px;
+
+  background: #FFFFFF;
+}
+.t1,.t2,.t3,.t4,.t5,.t6,.t7,.t8{
+  position: absolute;
+  width: 179px;
+  height: 45px;
+  left: 100px;
+  top: 13px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 750;
+  font-size: 19px;
+  line-height: 22px;
+  text-transform: capitalize;
+
+  color: #000000;
+
+}
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9{
+  position: absolute;
+
+left: 17px;
+top: 5px;
+
+}
